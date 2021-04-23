@@ -1,0 +1,23 @@
+.css-classes h1{
+    font-size: 20px;
+}
+.css-classes li{
+    font-style: italic
+}
+/*I also know how to use an ID*/
+
+#number-one{
+    color: red;
+}
+
+dt{
+    font-weight: bold;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: rgb(19, 139, 59);
+}
+.wrapper{
+    border: 5px solid black;
+}
